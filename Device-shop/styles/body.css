@@ -1,0 +1,48 @@
+.body-images img {
+    width: 100%;
+    height: auto;
+}
+
+.body-images a {
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    padding-left: 300px;
+    border-top: solid 3px;
+    border-color: aliceblue;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.container {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 76px;
+    margin-right: 76px;
+}
+
+
+.footer-table {
+    display: inline-block;
+    /* margin-right: 80px; */
+}
+
+.footer-table a{
+    
+    padding: 4px 0;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.footer-table li {
+    list-style-type: none;
+    margin-bottom: 15px;
+    width: 250px;
+}
+
+.footer-table li p {
+    font-weight: bold;
+    letter-spacing: 5px;
+}

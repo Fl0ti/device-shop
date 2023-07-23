@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Roboto&display=swap');
+
+body {
+    background-color: #141414;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: aliceblue;
+}
+
+.link-font-size a {
+    font-size: large;
+    /* font-weight: bold; */
+}
+
