@@ -1,0 +1,38 @@
+.rvm-body {
+    /* position: relative; */
+    margin-top: 10%;
+    /* margin-left: 10%; */
+    /* margin-right: 20%; */
+
+}
+
+.rvm_img {
+    display: flex;
+    position: absolute;
+}
+
+.quantity-rvm p {
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+.viperMiniPng { 
+    width: 300px;
+    margin-left: 150px;
+ } 
+
+.rvm p {
+    font-size: 35px;
+    margin-left: 50%;
+}
+.rvm h3 {
+    margin-left: 50%;
+}
+
+.price-rvm h3{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.shippinginfo {
+    font-size: 85%;
+}
