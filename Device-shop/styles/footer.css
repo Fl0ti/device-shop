@@ -1,0 +1,36 @@
+.footer-line {
+    border-top: solid 3px;
+    border-color: aliceblue;
+    z-index: 2;
+}
+
+.footer {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.footer-table {
+    display: inline-grid;
+}
+
+
+.footer-table a{
+    padding: 4px 0;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.footer-table li {
+    list-style-type: none;
+    margin-bottom: 15px;
+    width: 250px;
+    text-align: center;
+}
+
+
+.footer-table li p {
+    font-weight: bold;
+    letter-spacing: 5px;
+}
