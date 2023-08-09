@@ -67,11 +67,7 @@
 }
 
 .navbar-hover-a:hover {
-    /* background: black; */
-    background: #141414;
-    padding-left: 20px;
-    padding-right: 20px;
-    margin: 40px 40px;
+    background: #000000;
     transition: .2s;
 
     background-image: linear-gradient(currentColor, currentColor);
